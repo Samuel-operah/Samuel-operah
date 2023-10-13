@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: GURU-BOT
+    name: OPERAH-BOT
     env: docker
-    region: Frankfurt
+    region: Nigeria
     plan: free
